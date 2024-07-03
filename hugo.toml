@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "AllenZCH's Blog"
+theme = 'hugo-theme-tokiwa'
+
+[params]
+description = "知道了结局，日常也开始变得珍贵。"
